@@ -1,2 +1,1 @@
 # rabbitmq
-Rabittmq dev
