@@ -14,7 +14,7 @@ services:
       - RABBITMQ_DEFAULT_USER=admin
       - RABBITMQ_DEFAULT_PASS=admin
     networks:
-      - micro-catalog
+      - codeflix
 
 networks:
   codeflix:
